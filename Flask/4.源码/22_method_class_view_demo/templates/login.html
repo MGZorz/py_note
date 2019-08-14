@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h3>登录页面</h3>
+    <form action="/login/"  method="post">
+        <table>
+            <tr>
+                <td>账号：</td>
+                <td><input type="text" name="uname"></td>
+            </tr>
+             <tr>
+                <td>密码：</td>
+                <td><input type="password" name="pwd"></td>
+            </tr>
+              <tr>
+                <td></td>
+                <td><input type="submit" value="立即登录"></td>
+            </tr>
+             <tr>
+                <td colspan="2">
+                        {# <font color="red">{{ error }}</font>#}
+                        {# 优化：判断 #}
+                    {% if error %}
+                         <font color="red">{{ error }}</font>
+                    {% endif %}
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,60 @@
+git config --global user.name 'xXXX'
+git conifg --global user.email 'xXX@XX.com'
+
+touch 1.py
+
+git add 1.py
+
+git commit -m 'create 1.py' 
+
+git log
+
+git status -s
+
+git diff (unm)
+
+git diff --cached (m)
+
+git log --oneline
+
+git commit --amend  --no-edit
+
+git reset 1.py
+
+git checkout 'id号'
+
+git reset --hard HEAD
+
+git reset --hard HEAD^
+
+git reset --hard HEAD^^
+
+git reset --hard HEAD~100
+
+git reset --hard b7aa8b0
+
+git reflog 
+
+git reset --hard HEAD@{1}
+
+git  checkout id -- 文件
+
+reset  忽略跳过的commit 然后重新创建一个未来
+checkout  只是回到过去，更改了某个时间点的某个版本，对其他的没有影响
+
+git log --oneline --graph
+
+git branch 分支名
+
+git branch
+
+git checkout 分支名
+
+git branch -d 分支名
+
+git checkout -b 分支名
+
+git commit -am 'change 3'
+
+git merge --no-ff -m ''
+

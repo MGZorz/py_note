@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    {# 常规写法【掌握】 #}
+{#    <link type="text/css" rel="stylesheet"  href="{{ url_for('static',filename='news_list.css') }}">#}
+    {# 个性化写法【了解】 #}
+    <link type="text/css" rel="stylesheet"  href="{{ url_for('news.static',filename='news_list.css') }}">
+</head>
+<body>
+    <h3>这是渲染所有的新闻的页面1</h3>
+    <hr>
+{#    url_for反转蓝图注意事项  构建/news/detail/   场景2#}
+    <a href="{{ url_for('news.detail') }}">点击查看新闻详情</a>
+
+</body>
+</html>
