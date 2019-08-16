@@ -58,3 +58,23 @@ git commit -am 'change 3'
 
 git merge --no-ff -m ''
 
+提交：
+git remote add origin http://XXX
+git pull origin master
+git push -u origin master
+
+合并
+将开发分支代码合入到master中
+git checkout dev           #切换到dev开发分支
+git pull
+git checkout master
+git merge dev              #合并dev分支到master上
+git push origin master     #将代码推到master上
+
+
+将master的代码同步更新到开发分支中
+git checkout master
+git pull
+git checkout dev
+git merge master
+git pull origin dev
