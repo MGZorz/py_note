@@ -160,13 +160,13 @@ app.config['SERVER_NAME'] =  'wqz.com:5000'
 
 def CreateCookie():
 
-resp = Response('XXXXX')
+    resp = Response('XXXXX')
 
-ex2 = datetime.now()+timedelta(days=29,hours=16)
+    ex2 = datetime.now()+timedelta(days=29,hours=16)
 
-resp.set_cookie('pwd','123456')
+    resp.set_cookie('pwd','123456')
 
-resp.set_cookie('uname','lulu',expires=ex2,domain='wqz.com')
+    resp.set_cookie('uname','lulu',expires=ex2,domain='wqz.com')
 
     return  resp
 ```
