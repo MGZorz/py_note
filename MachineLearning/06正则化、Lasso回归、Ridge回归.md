@@ -70,3 +70,44 @@ $$
 
 **采用梯度下降法**
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190829102520173.png)
+
+迭代公式如下：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190829102623895.png)
+
+## Lasso回归求解
+
+由于$L_1$范数用的是绝对值，导致LASSO的优化目标不是连续可导的，也就是说，最小二乘法，梯度下降法，牛顿法，拟牛顿法都不能用，这里求解的方法是近端梯度下降法（Proximal Gradient Descent，PGD）。
+
+### 优化目标
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190829102834213.png)
+
+若$f(x)$可导，梯度$\nabla f(x)$满足$L-Lipschitz$条件（利普希茨连续条件），即存在常数L> 0，使得：
+
+![1567045827389](C:/Users/admin/AppData/Roaming/Typora/typora-user-images/1567045827389.png)
+
+> $L-Lipschitz$（利普希茨连续条件）定义：
+>
+> ​	对于函数$f(x)$，若其任意定义域中的$x_1,x_2$都存在$L>0$，使得$|f(x_1)-f(x_2)|≤L|x_1-x_2|$，即对于$f(x)$上每对 点，连接他们的线的斜率的绝对值总是不大于这个实数$L$。
+>
+> 
+
+### 泰勒展开
+
+将$x_k$处将$f(x)$进行二阶泰勒展开:
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190829103452807.png)
+
+在将代入：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190829103538512.png)
+
+在对其进行化简
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190829103632937.png)其中
+
+![\ varphi \ left（{{x_k}} \ right）{\ rm {=}} f \ left（{{x_k}} \ right） -  \ frac {1} {{2L}} {\ left（{\ nabla f \ left（{{x_k}} \ right）} \ right）^ 2}](https://private.codecogs.com/gif.latex?%5Cvarphi%20%5Cleft%28%20%7B%7Bx_k%7D%7D%20%5Cright%29%7B%5Crm%7B%20%3D%20%7D%7Df%5Cleft%28%20%7B%7Bx_k%7D%7D%20%5Cright%29%20-%20%5Cfrac%7B1%7D%7B%7B2L%7D%7D%7B%5Cleft%28%20%7B%5Cnabla%20f%5Cleft%28%20%7B%7Bx_k%7D%7D%20%5Cright%29%7D%20%5Cright%29%5E2%7D)
+
+是关于x的无关常数，则可以以忽略掉。
+

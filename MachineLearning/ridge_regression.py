@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.linear_model import Ridge
 from sklearn.linear_model import SGDRegressor
 
-__author__ = 'yasaka'
+__author__ = 'MGZorz'
 
 X = 2 * np.random.rand(100, 1)
 y = 4 + 3 * X + np.random.randn(100, 1)

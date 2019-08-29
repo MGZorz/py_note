@@ -5,7 +5,7 @@
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
-__author__ = 'yasaka'
+__author__ = 'MGZorz'
 
 X1 = 2 * np.random.rand(100, 1)
 X2 = 2 * np.random.rand(100, 1)
