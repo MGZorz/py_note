@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2154980e-4274-4623-bd01-93f0cf7b6c87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/git_doc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Algorithms_and_data_structures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_线性结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_链性结构_单链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_链性结构_双链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_队列_链性+线性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_栈_线性+链性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_栈的实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_哈希结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_线性查找.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_二分查找.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_冒泡排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_选择排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_插入排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_归并排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_快速排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_树结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_最大堆最小堆.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.线性结构练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b.单链表练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/01-前言.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/02-线性结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/03-链性结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/04-队列与栈.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/05-哈希表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/07逻辑回归.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/logistic_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/多元线性回归.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/逻辑回归.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/音乐分类器代码实现代码资料/数据/trainset.rar.baiduyun.p.downloading" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/音乐分类器代码实现代码资料/音乐分类器代码实现_代码/music_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/资料/machine-learning.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/资料/sine_a.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/资料/sine_b.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/资料/sine_mix.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/资料/傅里叶变换.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/音乐分类器数据介绍_音乐分类器傅里叶变换_代码/music.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MachineLearning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/创建表.md" beforeDir="false" afterPath="$PROJECT_DIR$/../sql/创建表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/插入数据.md" beforeDir="false" afterPath="$PROJECT_DIR$/../sql/插入数据.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/权限管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/../sql/权限管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/李伟老师数据库.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/02-链式结构.py" />
+        <option value="$PROJECT_DIR$/02_链性结构.py" />
+        <option value="$PROJECT_DIR$/01-线性结构.py" />
+        <option value="$PROJECT_DIR$/01_线性结构.py" />
+        <option value="$PROJECT_DIR$/04_链性结构_循环链表.py" />
+        <option value="$PROJECT_DIR$/03_链性结构_双链表.py" />
+        <option value="$PROJECT_DIR$/05_队列_线性.py" />
+        <option value="$PROJECT_DIR$/07_栈_链性.py" />
+        <option value="$PROJECT_DIR$/08_栈的实现.py" />
+        <option value="$PROJECT_DIR$/09_哈希结构.py" />
+        <option value="$PROJECT_DIR$/10_线性查找.py" />
+        <option value="$PROJECT_DIR$/11_二分查找.py" />
+        <option value="$PROJECT_DIR$/04_队列_链性.py" />
+        <option value="$PROJECT_DIR$/06_栈_线性.py" />
+        <option value="$PROJECT_DIR$/09_二分查找.py" />
+        <option value="$PROJECT_DIR$/notes/10-插入排序.md" />
+        <option value="$PROJECT_DIR$/12_插入排序.py" />
+        <option value="$PROJECT_DIR$/13_归并排序.py" />
+        <option value="$PROJECT_DIR$/11_选择排序.py" />
+        <option value="$PROJECT_DIR$/10_冒泡排序.py" />
+        <option value="$PROJECT_DIR$/时间复杂度对比.ipynb" />
+        <option value="$PROJECT_DIR$/14_快速排序.py" />
+        <option value="$PROJECT_DIR$/15_树结构.py" />
+        <option value="$PROJECT_DIR$/aaaa.py" />
+        <option value="$PROJECT_DIR$/16_最大堆最小堆.py" />
+        <option value="$PROJECT_DIR$/a.线性结构联系.py" />
+        <option value="$PROJECT_DIR$/a.线性结构练习.py" />
+        <option value="$PROJECT_DIR$/b.单链表练习.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="97" />
+    <option name="y" value="-16" />
+    <option name="width" value="1003" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/Project/Django项目/code" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git_doc\Algorithms_and_Data_structures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.a.线性结构练习">
+    <configuration name="13_归并排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_and_data_structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_归并排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14_快速排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_and_data_structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_快速排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15_树结构" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_and_data_structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_树结构.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a.线性结构练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_and_data_structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.线性结构练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aaaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_and_data_structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.a.线性结构练习" />
+        <item itemvalue="Python.aaaa" />
+        <item itemvalue="Python.15_树结构" />
+        <item itemvalue="Python.14_快速排序" />
+        <item itemvalue="Python.13_归并排序" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2154980e-4274-4623-bd01-93f0cf7b6c87" name="Default Changelist" comment="" />
+      <created>1567395046650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567395046650</updated>
+      <workItem from="1567395047858" duration="1250000" />
+      <workItem from="1567404253168" duration="9018000" />
+      <workItem from="1567423116104" duration="2929000" />
+      <workItem from="1567426369895" duration="119000" />
+      <workItem from="1567426534042" duration="3732000" />
+      <workItem from="1567472994588" duration="5789000" />
+      <workItem from="1567480823889" duration="36000" />
+      <workItem from="1567491229383" duration="1906000" />
+      <workItem from="1567496052974" duration="7248000" />
+      <workItem from="1567508911654" duration="969000" />
+      <workItem from="1567577621607" duration="9215000" />
+      <workItem from="1567598778000" duration="2297000" />
+      <workItem from="1567645322137" duration="9582000" />
+      <workItem from="1567732991256" duration="2092000" />
+      <workItem from="1567750980366" duration="4556000" />
+      <workItem from="1567757105069" duration="1223000" />
+      <workItem from="1568011018621" duration="199000" />
+      <workItem from="1568115838908" duration="5616000" />
+      <workItem from="1568166089478" duration="1635000" />
+      <workItem from="1568173572903" duration="51000" />
+      <workItem from="1568279672434" duration="106000" />
+      <workItem from="1568617442927" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69636000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14988644" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5529412" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45378152" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09_二分查找.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12_插入排序.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/13_归并排序.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a.线性结构练习.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$08_.coverage" NAME="08_栈的实现 Coverage Results" MODIFIED="1567581359936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$12_.coverage" NAME="12_插入排序 Coverage Results" MODIFIED="1567649716295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$06__.coverage" NAME="06_栈_线性 Coverage Results" MODIFIED="1567499309702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$11_.coverage" NAME="11_选择排序 Coverage Results" MODIFIED="1567650969779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$aaaa.coverage" NAME="aaaa Coverage Results" MODIFIED="1567753806314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$02__.coverage" NAME="02_链性结构_单链表 Coverage Results" MODIFIED="1567478948705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$14_.coverage" NAME="14_快速排序 Coverage Results" MODIFIED="1567733874615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$04__.coverage" NAME="04_队列_链性 Coverage Results" MODIFIED="1567496311483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_data_structures$01_.coverage" NAME="01_线性结构 Coverage Results" MODIFIED="1567395636914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$01_.coverage" NAME="01_线性结构 Coverage Results" MODIFIED="1567429746681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$a_.coverage" NAME="a.线性结构练习 Coverage Results" MODIFIED="1568120625592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$13_.coverage" NAME="13_归并排序 Coverage Results" MODIFIED="1567650994856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$02_.coverage" NAME="02_链性结构 Coverage Results" MODIFIED="1567429156804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$03__.coverage" NAME="03_链性结构_双链表 Coverage Results" MODIFIED="1567495203065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$05__.coverage" NAME="05_队列_线性 Coverage Results" MODIFIED="1567497172884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$07__.coverage" NAME="07_栈_链性 Coverage Results" MODIFIED="1567501214059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$09_.coverage" NAME="09_二分查找 Coverage Results" MODIFIED="1567645641282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$15_.coverage" NAME="15_树结构 Coverage Results" MODIFIED="1567752565576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_Data_structures$10_.coverage" NAME="10_冒泡排序 Coverage Results" MODIFIED="1567648341826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>self.item</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>index</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>range(index, self.item)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.item[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.size</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>node.left</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>node_data.get(node_data['left'])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>node_data['data']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>node_dict</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02-链式结构.py" />
+    <entry file="file://$PROJECT_DIR$/01-线性结构.py" />
+    <entry file="file://$PROJECT_DIR$/notes/03-链性结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_链性结构_循环链表.py" />
+    <entry file="file://$PROJECT_DIR$/03_链性结构_双链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="1146" selection-start-line="1146" selection-end-line="1146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/04-队列与栈.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/05-哈希表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python_document/notes/数据结构与算法视频/06-哈希结构.py" />
+    <entry file="file://$PROJECT_DIR$/07_哈希结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="119" column="32" selection-start-line="119" selection-start-column="32" selection-end-line="119" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_队列_线性.py" />
+    <entry file="file://$PROJECT_DIR$/04_队列_链性+线性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="162" column="22" selection-start-line="162" selection-start-column="22" selection-end-line="162" selection-end-column="22" />
+          <folding>
+            <element signature="e#16#110#0" />
+            <element signature="e#133#1886#0" />
+            <element signature="e#1906#2082#0" />
+            <element signature="e#2113#3946#0" />
+            <element signature="e#3973#4450#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_栈_链性.py" />
+    <entry file="file://$PROJECT_DIR$/06_栈的实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_栈_线性+链性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#17#1850#0" />
+            <element signature="e#1877#2457#0" />
+            <element signature="e#2515#2609#0" />
+            <element signature="e#2632#4424#0" />
+            <element signature="e#4444#4907#0" />
+            <element signature="e#4587#4812#0" />
+            <element signature="e#4855#4907#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_线性查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/08-冒泡排序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="78">
+            <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/06-线性查找.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="130">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/02-线性结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/01-前言.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/09-选择排序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="88">
+            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/10-插入排序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="153">
+            <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/11-归并排序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="260">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_归并排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_二分查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_冒泡排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_插入排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_选择排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/时间复杂度对比.ipynb" />
+    <entry file="file://$PROJECT_DIR$/14_快速排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaaa.py" />
+    <entry file="file://$PROJECT_DIR$/notes/13-树结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-260">
+            <caret line="163" column="34" lean-forward="true" selection-start-line="163" selection-start-column="34" selection-end-line="163" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_最大堆最小堆.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_树结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.线性结构练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="51" column="23" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_线性结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b.单链表练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_链性结构_单链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

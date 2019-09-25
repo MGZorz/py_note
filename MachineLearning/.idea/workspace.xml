@@ -3,15 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5cd10888-fb72-4867-be6d-70375dd88443" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06正则化、Lasso回归、Ridge回归.md" beforeDir="false" afterPath="$PROJECT_DIR$/06正则化、Lasso回归、Ridge回归.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/batch_gradient_descent.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_gradient_descent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/elastic_net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insurance.py" beforeDir="false" afterPath="$PROJECT_DIR$/insurance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lasso_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/lasso_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear_regression_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_regression_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polynomial_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/polynomial_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ridge_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/ridge_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stochastic_gradient_descent.py" beforeDir="false" afterPath="$PROJECT_DIR$/stochastic_gradient_descent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/创建表.md" beforeDir="false" afterPath="$PROJECT_DIR$/../sql/创建表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/插入数据.md" beforeDir="false" afterPath="$PROJECT_DIR$/../sql/插入数据.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/权限管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/../sql/权限管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/李伟老师数据库.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,62 +29,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lasso_regression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#70#88#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linear_regression_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#73#91#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ridge_regression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stochastic_gradient_descent.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polynomial_regression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#75#93#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -342,17 +282,18 @@
       <workItem from="1567058785966" duration="9291000" />
       <workItem from="1567071016664" duration="169000" />
       <workItem from="1567076523902" duration="135000" />
+      <workItem from="1567127563729" duration="56000" />
+      <workItem from="1567151352060" duration="89000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21590000" />
+    <option name="totallyTimeSpent" value="21735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28841788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29295987" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -484,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lasso_regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="182">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#70#88#0" expanded="true" />
           </folding>
@@ -494,20 +435,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/linear_regression_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="494">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#73#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polynomial_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#75#93#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -523,6 +454,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polynomial_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#75#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07逻辑回归.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="590097ee-344c-40da-83df-4e2dff1b175d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MachineLearning/07逻辑回归.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/logistic_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/多元线性回归.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/逻辑回归.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/音乐分类器代码实现代码资料/数据/trainset.rar.baiduyun.p.downloading" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/音乐分类器代码实现代码资料/音乐分类器代码实现_代码/music_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/资料/machine-learning.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/资料/sine_a.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/资料/sine_b.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/资料/sine_mix.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/资料/傅里叶变换.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/音乐分类器数据介绍_音乐分类器傅里叶变换_代码_资料/音乐分类器数据介绍_音乐分类器傅里叶变换_代码/music.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/创建表.md" beforeDir="false" afterPath="$PROJECT_DIR$/sql/创建表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/插入数据.md" beforeDir="false" afterPath="$PROJECT_DIR$/sql/插入数据.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/权限管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/sql/权限管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/李伟老师数据库.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="323" />
+    <option name="width" value="1003" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="590097ee-344c-40da-83df-4e2dff1b175d" name="Default Changelist" comment="" />
+      <created>1567323879186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567323879186</updated>
+      <workItem from="1567323886925" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
